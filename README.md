@@ -2,7 +2,7 @@
 A Power BI End to End project based on HR analytics.
 
 
-Complete Power BI project in just one video. Topics covered in this Power BI Project video: 
+Complete Power BI project with the following topics covered: 
 - Data Cleaning & Processing in Power BI
 - Power BI Dashboard Setup
 - Import data in Power BI
