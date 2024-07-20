@@ -1,5 +1,9 @@
 # PowerBI_Dashboard_HR_Analytics
-A Power BI End to End project based on HR analytics.
+
+
+## Technology and Tools
+* Power BI
+* MS Excel
 
 
 Complete Power BI project with the following topics covered: 
